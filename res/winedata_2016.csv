@@ -1,0 +1,775 @@
+Continent,Country,Series,Year,Unit,Value
+Asia,Afghanistan,Wine imports,2016,1000 hl,1
+Asia,Afghanistan,Wine consumption,2016,1000 hl,1
+Asia,Afghanistan,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Europe,Albania,Wine production,2016,1000 hl,178
+Europe,Albania,Wine exports,2016,1000 hl,0
+Europe,Albania,Wine imports,2016,1000 hl,41
+Europe,Albania,Wine consumption,2016,1000 hl,255
+Europe,Albania,Consumption of wine per capita (+15),2016,l/capita (+15),10.6
+Africa,Algeria,Wine production,2016,1000 hl,574
+Africa,Algeria,Wine exports,2016,1000 hl,2
+Africa,Algeria,Wine imports,2016,1000 hl,113
+Africa,Algeria,Wine consumption,2016,1000 hl,441
+Africa,Algeria,Consumption of wine per capita (+15),2016,l/capita (+15),1.5
+Oceania,American Samoa,Wine imports,2016,1000 hl,0
+Oceania,American Samoa,Wine consumption,2016,1000 hl,0
+Africa,Angola,Wine exports,2016,1000 hl,0
+Africa,Angola,Wine imports,2016,1000 hl,850
+Africa,Angola,Wine consumption,2016,1000 hl,933
+Africa,Angola,Consumption of wine per capita (+15),2016,l/capita (+15),6.1
+America,Antigua And Barbuda,Wine exports,2016,1000 hl,0
+America,Antigua And Barbuda,Wine imports,2016,1000 hl,28
+America,Antigua And Barbuda,Wine consumption,2016,1000 hl,21
+America,Antigua And Barbuda,Consumption of wine per capita (+15),2016,l/capita (+15),26.3
+America,Argentina,Wine production,2016,1000 hl,9447
+America,Argentina,Wine exports,2016,1000 hl,2598
+America,Argentina,Wine imports,2016,1000 hl,93
+America,Argentina,Wine consumption,2016,1000 hl,9416
+America,Argentina,Consumption of wine per capita (+15),2016,l/capita (+15),28.7
+Asia,Armenia,Wine production,2016,1000 hl,75
+Asia,Armenia,Wine exports,2016,1000 hl,18
+Asia,Armenia,Wine imports,2016,1000 hl,3
+Asia,Armenia,Wine consumption,2016,1000 hl,59
+Asia,Armenia,Consumption of wine per capita (+15),2016,l/capita (+15),2.5
+Oceania,Australia,Wine production,2016,1000 hl,13100
+Oceania,Australia,Wine exports,2016,1000 hl,7280
+Oceania,Australia,Wine imports,2016,1000 hl,878
+Oceania,Australia,Wine consumption,2016,1000 hl,5380
+Oceania,Australia,Consumption of wine per capita (+15),2016,l/capita (+15),27.5
+Europe,Austria,Wine production,2016,1000 hl,1953
+Europe,Austria,Wine exports,2016,1000 hl,485
+Europe,Austria,Wine imports,2016,1000 hl,824
+Europe,Austria,Wine consumption,2016,1000 hl,2423
+Europe,Austria,Consumption of wine per capita (+15),2016,l/capita (+15),32.4
+Asia,Azerbaijan,Wine production,2016,1000 hl,105
+Asia,Azerbaijan,Wine exports,2016,1000 hl,1
+Asia,Azerbaijan,Wine imports,2016,1000 hl,4
+Asia,Azerbaijan,Wine consumption,2016,1000 hl,106
+Asia,Azerbaijan,Consumption of wine per capita (+15),2016,l/capita (+15),1.4
+America,Bahamas,Wine exports,2016,1000 hl,1
+America,Bahamas,Wine imports,2016,1000 hl,27
+America,Bahamas,Wine consumption,2016,1000 hl,32
+America,Bahamas,Consumption of wine per capita (+15),2016,l/capita (+15),10.3
+Asia,Bangladesh,Wine imports,2016,1000 hl,1
+Asia,Bangladesh,Wine consumption,2016,1000 hl,1
+Asia,Bangladesh,Consumption of wine per capita (+15),2016,l/capita (+15),0
+America,Barbados,Wine exports,2016,1000 hl,1
+America,Barbados,Wine imports,2016,1000 hl,34
+America,Barbados,Wine consumption,2016,1000 hl,34
+America,Barbados,Consumption of wine per capita (+15),2016,l/capita (+15),14.8
+Europe,Belarus,Wine production,2016,1000 hl,274
+Europe,Belarus,Wine exports,2016,1000 hl,22
+Europe,Belarus,Wine imports,2016,1000 hl,485
+Europe,Belarus,Wine consumption,2016,1000 hl,756
+Europe,Belarus,Consumption of wine per capita (+15),2016,l/capita (+15),9.6
+Europe,Belgium And Luxembourg,Wine exports,2016,1000 hl,
+Europe,Belgium And Luxembourg,Wine imports,2016,1000 hl,0
+Europe,Belgium,Wine production,2016,1000 hl,8
+Europe,Belgium,Wine exports,2016,1000 hl,301
+Europe,Belgium,Wine imports,2016,1000 hl,3120
+Europe,Belgium,Wine consumption,2016,1000 hl,3000
+Europe,Belgium,Consumption of wine per capita (+15),2016,l/capita (+15),31.9
+America,Belize,Wine exports,2016,1000 hl,0
+America,Belize,Wine imports,2016,1000 hl,13
+America,Belize,Wine consumption,2016,1000 hl,13
+America,Belize,Consumption of wine per capita (+15),2016,l/capita (+15),5.2
+Africa,Benin,Wine exports,2016,1000 hl,0
+Africa,Benin,Wine imports,2016,1000 hl,34
+Africa,Benin,Wine consumption,2016,1000 hl,39
+Africa,Benin,Consumption of wine per capita (+15),2016,l/capita (+15),0.6
+America,Bermuda,Wine imports,2016,1000 hl,15
+America,Bermuda,Wine consumption,2016,1000 hl,15
+America,Bolivia,,,,
+America,Bolivia,,,,
+America,Bolivia,,,,
+America,Bolivia,,,,
+America,Bolivia,,,,
+Europe,Bosnia And Herzegovina,Wine production,2016,1000 hl,51
+Europe,Bosnia And Herzegovina,Wine exports,2016,1000 hl,20
+Europe,Bosnia And Herzegovina,Wine imports,2016,1000 hl,80
+Europe,Bosnia And Herzegovina,Wine consumption,2016,1000 hl,109
+Europe,Bosnia And Herzegovina,Consumption of wine per capita (+15),2016,l/capita (+15),3.6
+Africa,Botswana,Wine exports,2016,1000 hl,0
+Africa,Botswana,Wine imports,2016,1000 hl,37
+Africa,Botswana,Wine consumption,2016,1000 hl,35
+Africa,Botswana,Consumption of wine per capita (+15),2016,l/capita (+15),2.3
+America,Brazil,Wine production,2016,1000 hl,1257
+America,Brazil,Wine exports,2016,1000 hl,20
+America,Brazil,Wine imports,2016,1000 hl,921
+America,Brazil,Wine consumption,2016,1000 hl,3112
+America,Brazil,Consumption of wine per capita (+15),2016,l/capita (+15),1.9
+Asia,Brunei Darussalam,Wine imports,2016,1000 hl,1
+Asia,Brunei Darussalam,Wine consumption,2016,1000 hl,0
+Europe,Bulgaria,Wine production,2016,1000 hl,1206
+Europe,Bulgaria,Wine exports,2016,1000 hl,454
+Europe,Bulgaria,Wine imports,2016,1000 hl,73
+Europe,Bulgaria,Wine consumption,2016,1000 hl,1028
+Europe,Bulgaria,Consumption of wine per capita (+15),2016,l/capita (+15),16.8
+Africa,Burkina Faso,Wine exports,2016,1000 hl,1
+Africa,Burkina Faso,Wine imports,2016,1000 hl,32
+Africa,Burkina Faso,Wine consumption,2016,1000 hl,31
+Africa,Burkina Faso,Consumption of wine per capita (+15),2016,l/capita (+15),0.3
+Africa,Burundi,Wine exports,2016,1000 hl,0
+Africa,Burundi,Wine imports,2016,1000 hl,2
+Africa,Burundi,Wine consumption,2016,1000 hl,2
+Africa,Burundi,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Asia,Cambodia,Wine exports,2016,1000 hl,0
+Asia,Cambodia,Wine imports,2016,1000 hl,12
+Asia,Cambodia,Wine consumption,2016,1000 hl,14
+Asia,Cambodia,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Africa,Cameroon,Wine exports,2016,1000 hl,1
+Africa,Cameroon,Wine imports,2016,1000 hl,76
+Africa,Cameroon,Wine consumption,2016,1000 hl,63
+Africa,Cameroon,Consumption of wine per capita (+15),2016,l/capita (+15),0.5
+America,Canada,Wine production,2016,1000 hl,548
+America,Canada,Wine exports,2016,1000 hl,717
+America,Canada,Wine imports,2016,1000 hl,4157
+America,Canada,Wine consumption,2016,1000 hl,4996
+America,Canada,Consumption of wine per capita (+15),2016,l/capita (+15),16.4
+Africa,Cape Verde,Wine exports,2016,1000 hl,0
+Africa,Cape Verde,Wine imports,2016,1000 hl,68
+Africa,Cape Verde,Wine consumption,2016,1000 hl,63
+Africa,Cape Verde,Consumption of wine per capita (+15),2016,l/capita (+15),17
+Africa,Chad,Wine exports,2016,1000 hl,0
+Africa,Chad,Wine imports,2016,1000 hl,7
+Africa,Chad,Wine consumption,2016,1000 hl,5
+Africa,Chad,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+America,Chile,Wine production,2016,1000 hl,10143
+America,Chile,Wine exports,2016,1000 hl,9076
+America,Chile,Wine imports,2016,1000 hl,25
+America,Chile,Wine consumption,2016,1000 hl,2433
+America,Chile,Consumption of wine per capita (+15),2016,l/capita (+15),17.1
+Asia,China,Wine production,2016,1000 hl,13217
+Asia,China,Wine exports,2016,1000 hl,100
+Asia,China,Wine imports,2016,1000 hl,6389
+Asia,China,Wine consumption,2016,1000 hl,19162
+Asia,China,Consumption of wine per capita (+15),2016,l/capita (+15),1.7
+America,Colombia,Wine exports,2016,1000 hl,0
+America,Colombia,Wine imports,2016,1000 hl,181
+America,Colombia,Wine consumption,2016,1000 hl,285
+America,Colombia,Consumption of wine per capita (+15),2016,l/capita (+15),0.8
+Africa,Comoros,Wine imports,2016,1000 hl,3
+Africa,Comoros,Wine consumption,2016,1000 hl,3
+Africa,Comoros,Consumption of wine per capita (+15),2016,l/capita (+15),0.6
+Africa,Congo,,,,
+Africa,Congo,,,,
+Africa,Congo,,,,
+Africa,Congo,,,,
+Africa,Congo,,,,
+Africa,Congo,Wine exports,2016,1000 hl,0
+Africa,Congo,Wine imports,2016,1000 hl,32
+Africa,Congo,Wine consumption,2016,1000 hl,32
+Africa,Congo,Consumption of wine per capita (+15),2016,l/capita (+15),1.1
+Oceania,Cook Islands,Wine imports,2016,1000 hl,4
+Oceania,Cook Islands,Wine consumption,2016,1000 hl,3
+America,Costa Rica,Wine exports,2016,1000 hl,0
+America,Costa Rica,Wine imports,2016,1000 hl,117
+America,Costa Rica,Wine consumption,2016,1000 hl,113
+America,Costa Rica,Consumption of wine per capita (+15),2016,l/capita (+15),3
+Europe,Croatia,Wine production,2016,1000 hl,760
+Europe,Croatia,Wine exports,2016,1000 hl,36
+Europe,Croatia,Wine imports,2016,1000 hl,310
+Europe,Croatia,Wine consumption,2016,1000 hl,1207
+Europe,Croatia,Consumption of wine per capita (+15),2016,l/capita (+15),33.6
+America,Cuba,Wine production,2016,1000 hl,117
+America,Cuba,Wine exports,2016,1000 hl,0
+America,Cuba,Wine imports,2016,1000 hl,74
+America,Cuba,Wine consumption,2016,1000 hl,181
+America,Cuba,Consumption of wine per capita (+15),2016,l/capita (+15),1.9
+Asia,Cyprus,Wine production,2016,1000 hl,81
+Asia,Cyprus,Wine exports,2016,1000 hl,6
+Asia,Cyprus,Wine imports,2016,1000 hl,87
+Asia,Cyprus,Wine consumption,2016,1000 hl,158
+Asia,Cyprus,Consumption of wine per capita (+15),2016,l/capita (+15),16.3
+Europe,Czech Republic,Wine production,2016,1000 hl,631
+Europe,Czech Republic,Wine exports,2016,1000 hl,59
+Europe,Czech Republic,Wine imports,2016,1000 hl,1403
+Europe,Czech Republic,Wine consumption,2016,1000 hl,1920
+Europe,Czech Republic,Consumption of wine per capita (+15),2016,l/capita (+15),21.3
+Europe,Denmark,Wine exports,2016,1000 hl,320
+Africa,Djibouti,Wine exports,2016,1000 hl,0
+Africa,Djibouti,Wine imports,2016,1000 hl,2
+Africa,Djibouti,Wine consumption,2016,1000 hl,3
+Africa,Djibouti,Consumption of wine per capita (+15),2016,l/capita (+15),0.5
+America,Dominica,Wine exports,2016,1000 hl,0
+America,Dominica,Wine imports,2016,1000 hl,1
+America,Dominica,Wine consumption,2016,1000 hl,1
+Africa,Dominican Republic,Wine exports,2016,1000 hl,0
+Africa,Dominican Republic,Wine imports,2016,1000 hl,131
+Africa,Dominican Republic,Wine consumption,2016,1000 hl,132
+Africa,Dominican Republic,Consumption of wine per capita (+15),2016,l/capita (+15),1.8
+America,Ecuador,Wine exports,2016,1000 hl,0
+America,Ecuador,Wine imports,2016,1000 hl,60
+America,Ecuador,Wine consumption,2016,1000 hl,57
+America,Ecuador,Consumption of wine per capita (+15),2016,l/capita (+15),0.5
+Africa,Egypt,Wine production,2016,1000 hl,54
+Africa,Egypt,Wine exports,2016,1000 hl,0
+Africa,Egypt,Wine imports,2016,1000 hl,0
+Africa,Egypt,Wine consumption,2016,1000 hl,59
+Africa,Egypt,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+America,El Salvador,Wine exports,2016,1000 hl,0
+America,El Salvador,Wine imports,2016,1000 hl,20
+America,El Salvador,Wine consumption,2016,1000 hl,20
+America,El Salvador,Consumption of wine per capita (+15),2016,l/capita (+15),0.4
+Europe,Estonia,Wine production,2016,1000 hl,120
+Europe,Estonia,Wine exports,2016,1000 hl,49
+Europe,Estonia,Wine imports,2016,1000 hl,252
+Europe,Estonia,Wine consumption,2016,1000 hl,200
+Europe,Estonia,Consumption of wine per capita (+15),2016,l/capita (+15),18.2
+Africa,Ethiopia,Wine production,2016,1000 hl,17
+Africa,Ethiopia,Wine exports,2016,1000 hl,1
+Africa,Ethiopia,Wine imports,2016,1000 hl,6
+Africa,Ethiopia,Wine consumption,2016,1000 hl,23
+Africa,Ethiopia,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Europe,Faroe Islands,Wine imports,2016,1000 hl,4
+Europe,Faroe Islands,Wine consumption,2016,1000 hl,4
+Oceania,Fiji,Wine imports,2016,1000 hl,13
+Oceania,Fiji,Wine consumption,2016,1000 hl,14
+Oceania,Fiji,Consumption of wine per capita (+15),2016,l/capita (+15),2.2
+Europe,Finland,Wine exports,2016,1000 hl,94
+Europe,Finland,Wine imports,2016,1000 hl,763
+Europe,Finland,Wine consumption,2016,1000 hl,565
+Europe,Finland,Consumption of wine per capita (+15),2016,l/capita (+15),12.3
+Europe,France,Wine production,2016,1000 hl,45367
+Europe,France,Wine exports,2016,1000 hl,14072
+Europe,France,Wine imports,2016,1000 hl,7750
+Europe,France,Wine consumption,2016,1000 hl,27114
+Europe,France,Consumption of wine per capita (+15),2016,l/capita (+15),51.2
+America,French Guiana,Wine imports,2016,1000 hl,1
+America,French Guiana,Wine consumption,2016,1000 hl,1
+America,French Guiana,Consumption of wine per capita (+15),2016,l/capita (+15),0.6
+Oceania,French Polynesia,Wine imports,2016,1000 hl,26
+Oceania,French Polynesia,Wine consumption,2016,1000 hl,27
+Oceania,French Polynesia,Consumption of wine per capita (+15),2016,l/capita (+15),12.9
+Africa,Gabon,Wine exports,2016,1000 hl,0
+Africa,Gabon,Wine imports,2016,1000 hl,71
+Africa,Gabon,Wine consumption,2016,1000 hl,73
+Africa,Gabon,Consumption of wine per capita (+15),2016,l/capita (+15),5.8
+Africa,Gambia,Wine imports,2016,1000 hl,0
+Africa,Gambia,Wine consumption,2016,1000 hl,0
+Asia,Georgia,Wine production,2016,1000 hl,884
+Asia,Georgia,Wine exports,2016,1000 hl,376
+Asia,Georgia,Wine imports,2016,1000 hl,2
+Asia,Georgia,Wine consumption,2016,1000 hl,506
+Asia,Georgia,Consumption of wine per capita (+15),2016,l/capita (+15),15.9
+Europe,Germany,Wine production,2016,1000 hl,9013
+Europe,Germany,Wine exports,2016,1000 hl,3609
+Europe,Germany,Wine imports,2016,1000 hl,14851
+Europe,Germany,Wine consumption,2016,1000 hl,20200
+Europe,Germany,Consumption of wine per capita (+15),2016,l/capita (+15),28.4
+Africa,Ghana,Wine exports,2016,1000 hl,10
+Africa,Ghana,Wine imports,2016,1000 hl,60
+Africa,Ghana,Wine consumption,2016,1000 hl,55
+Africa,Ghana,Consumption of wine per capita (+15),2016,l/capita (+15),0.3
+Europe,Greece,Wine production,2016,1000 hl,2490
+Europe,Greece,Wine exports,2016,1000 hl,274
+Europe,Greece,Wine imports,2016,1000 hl,165
+Europe,Greece,Wine consumption,2016,1000 hl,2266
+Europe,Greece,Consumption of wine per capita (+15),2016,l/capita (+15),23.7
+America,Greenland,Wine exports,2016,1000 hl,0
+America,Greenland,Wine imports,2016,1000 hl,4
+America,Greenland,Wine imports,2016,1000 hl,6
+America,Greenland,Wine consumption,2016,1000 hl,4
+America,Greenland,Wine consumption,2016,1000 hl,6
+America,Grenada,Wine exports,2016,1000 hl,0
+America,Guadeloupe,Wine imports,2016,1000 hl,
+America,Guadeloupe,Wine consumption,2016,1000 hl,0
+Oceania,Guam,Wine imports,2016,1000 hl,1
+Oceania,Guam,Wine consumption,2016,1000 hl,2
+Oceania,Guam,Consumption of wine per capita (+15),2016,l/capita (+15),1.7
+America,Guatemala,Wine exports,2016,1000 hl,5
+America,Guatemala,Wine imports,2016,1000 hl,43
+America,Guatemala,Wine consumption,2016,1000 hl,23
+America,Guatemala,Consumption of wine per capita (+15),2016,l/capita (+15),0.2
+Africa,Guinea-bissau,Wine imports,2016,1000 hl,92
+Africa,Guinea-bissau,Wine consumption,2016,1000 hl,86
+Africa,Guinea-bissau,Consumption of wine per capita (+15),2016,l/capita (+15),8.1
+Africa,Guinea,Wine imports,2016,1000 hl,5
+Africa,Guinea,Wine consumption,2016,1000 hl,5
+Africa,Guinea,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+America,Guyana,Wine exports,2016,1000 hl,1
+America,Guyana,Wine imports,2016,1000 hl,2
+America,Guyana,Wine consumption,2016,1000 hl,0
+America,Haiti,Wine imports,2016,1000 hl,9
+America,Haiti,Wine consumption,2016,1000 hl,9
+America,Haiti,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+America,Honduras,Wine exports,2016,1000 hl,0
+America,Honduras,Wine imports,2016,1000 hl,19
+America,Honduras,Wine consumption,2016,1000 hl,15
+America,Honduras,Consumption of wine per capita (+15),2016,l/capita (+15),0.2
+Asia,Hong Kong,,,,
+Asia,Hong Kong,,,,
+Asia,Hong Kong,,,,
+Asia,Hong Kong,,,,
+Europe,Hungary,Wine production,2016,1000 hl,2545
+Europe,Hungary,Wine exports,2016,1000 hl,750
+Europe,Hungary,Wine imports,2016,1000 hl,207
+Europe,Hungary,Wine consumption,2016,1000 hl,2310
+Europe,Hungary,Consumption of wine per capita (+15),2016,l/capita (+15),27.7
+Europe,Iceland,Wine exports,2016,1000 hl,0
+Europe,Iceland,Wine imports,2016,1000 hl,44
+Europe,Iceland,Wine consumption,2016,1000 hl,44
+Europe,Iceland,Consumption of wine per capita (+15),2016,l/capita (+15),16.3
+Asia,India,Wine production,2016,1000 hl,194
+Asia,India,Wine exports,2016,1000 hl,13
+Asia,India,Wine imports,2016,1000 hl,41
+Asia,India,Wine consumption,2016,1000 hl,217
+Asia,India,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Asia,Indonesia,Wine exports,2016,1000 hl,5
+Asia,Indonesia,Wine imports,2016,1000 hl,0
+Asia,Indonesia,Wine consumption,2016,1000 hl,1
+Asia,Indonesia,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Asia,Iran,,,,
+Asia,Iran,,,,
+Asia,Iran,,,,
+Asia,Iraq,Wine imports,2016,1000 hl,8
+Asia,Iraq,Wine consumption,2016,1000 hl,8
+Asia,Iraq,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Europe,Ireland,Wine exports,2016,1000 hl,39
+Europe,Ireland,Wine imports,2016,1000 hl,848
+Europe,Ireland,Wine consumption,2016,1000 hl,893
+Europe,Ireland,Consumption of wine per capita (+15),2016,l/capita (+15),24.1
+Europe,Israel,Wine production,2016,1000 hl,200
+Europe,Israel,Wine exports,2016,1000 hl,189
+Europe,Israel,Wine imports,2016,1000 hl,69
+Europe,Israel,Wine consumption,2016,1000 hl,36
+Europe,Israel,Consumption of wine per capita (+15),2016,l/capita (+15),0.6
+Europe,Italy,Wine production,2016,1000 hl,50920
+Europe,Italy,Wine exports,2016,1000 hl,20636
+Europe,Italy,Wine imports,2016,1000 hl,1706
+Europe,Italy,Wine consumption,2016,1000 hl,22400
+Europe,Italy,Consumption of wine per capita (+15),2016,l/capita (+15),43.6
+Africa,Ivory Coast,Wine exports,2016,1000 hl,0
+America,Jamaica,Wine exports,2016,1000 hl,6
+America,Jamaica,Wine imports,2016,1000 hl,58
+America,Jamaica,Wine consumption,2016,1000 hl,40
+America,Jamaica,Consumption of wine per capita (+15),2016,l/capita (+15),1.8
+Asia,Japan,Wine production,2016,1000 hl,789
+Asia,Japan,Wine exports,2016,1000 hl,2
+Asia,Japan,Wine imports,2016,1000 hl,2686
+Asia,Japan,Wine consumption,2016,1000 hl,3506
+Asia,Japan,Consumption of wine per capita (+15),2016,l/capita (+15),3.2
+Asia,Jordan,Wine exports,2016,1000 hl,0
+Asia,Jordan,Wine imports,2016,1000 hl,4
+Asia,Jordan,Wine consumption,2016,1000 hl,3
+Asia,Jordan,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Asia,Kazakhstan,Wine production,2016,1000 hl,272
+Asia,Kazakhstan,Wine exports,2016,1000 hl,5
+Asia,Kazakhstan,Wine imports,2016,1000 hl,93
+Asia,Kazakhstan,Wine consumption,2016,1000 hl,355
+Asia,Kazakhstan,Consumption of wine per capita (+15),2016,l/capita (+15),2.7
+Africa,Kenya,Wine exports,2016,1000 hl,10
+Africa,Kenya,Wine imports,2016,1000 hl,71
+Africa,Kenya,Wine consumption,2016,1000 hl,58
+Africa,Kenya,Consumption of wine per capita (+15),2016,l/capita (+15),0.2
+Oceania,Kiribati,Wine imports,2016,1000 hl,0
+Oceania,Kiribati,Wine consumption,2016,1000 hl,0
+Asia,Korea,,,,
+Asia,Korea,,,,
+Asia,Korea,,,,
+Asia,Korea,,,,
+Asia,Kyrgyzstan,Wine production,2016,1000 hl,16
+Asia,Kyrgyzstan,Wine exports,2016,1000 hl,2
+Asia,Kyrgyzstan,Wine imports,2016,1000 hl,14
+Asia,Kyrgyzstan,Wine consumption,2016,1000 hl,27
+Asia,Kyrgyzstan,Consumption of wine per capita (+15),2016,l/capita (+15),0.7
+Asia,Lao,,,,
+Asia,Lao,,,,
+Asia,Lao,,,,
+Europe,Latvia,Wine production,2016,1000 hl,26
+Europe,Latvia,Wine exports,2016,1000 hl,476
+Europe,Latvia,Wine imports,2016,1000 hl,608
+Europe,Latvia,Wine consumption,2016,1000 hl,151
+Europe,Latvia,Consumption of wine per capita (+15),2016,l/capita (+15),9
+Asia,Lebanon,Wine production,2016,1000 hl,100
+Asia,Lebanon,Wine exports,2016,1000 hl,21
+Asia,Lebanon,Wine imports,2016,1000 hl,13
+Asia,Lebanon,Wine consumption,2016,1000 hl,97
+Asia,Lebanon,Consumption of wine per capita (+15),2016,l/capita (+15),2.1
+Africa,Lesotho,Wine imports,2016,1000 hl,13
+Africa,Lesotho,Wine consumption,2016,1000 hl,11
+Africa,Lesotho,Consumption of wine per capita (+15),2016,l/capita (+15),0.8
+Africa,Liberia,Wine imports,2016,1000 hl,5
+Africa,Liberia,Wine consumption,2016,1000 hl,5
+Africa,Liberia,Consumption of wine per capita (+15),2016,l/capita (+15),0.2
+Africa,Libya,Wine exports,2016,1000 hl,0
+Africa,Libya,Wine imports,2016,1000 hl,0
+Africa,Libya,Wine consumption,2016,1000 hl,1
+Africa,Libya,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Europe,Lithuania,Wine production,2016,1000 hl,48
+Europe,Lithuania,Wine exports,2016,1000 hl,546
+Europe,Luxembourg,Wine production,2016,1000 hl,83
+Europe,Luxembourg,Wine exports,2016,1000 hl,67
+Europe,Luxembourg,Wine imports,2016,1000 hl,218
+Europe,Luxembourg,Wine consumption,2016,1000 hl,260
+Europe,Luxembourg,Consumption of wine per capita (+15),2016,l/capita (+15),54.2
+Asia,Macao,,,,
+Asia,Macao,,,,
+Asia,Macao,,,,
+Asia,Macao,,,,
+Africa,Madagascar,Wine production,2016,1000 hl,87
+Africa,Madagascar,Wine exports,2016,1000 hl,1
+Africa,Madagascar,Wine imports,2016,1000 hl,0
+Africa,Madagascar,Wine consumption,2016,1000 hl,89
+Africa,Madagascar,Consumption of wine per capita (+15),2016,l/capita (+15),0.6
+Africa,Malawi,Wine exports,2016,1000 hl,0
+Africa,Malawi,Wine imports,2016,1000 hl,11
+Africa,Malawi,Wine consumption,2016,1000 hl,6
+Africa,Malawi,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Asia,Malaysia,Wine exports,2016,1000 hl,45
+Asia,Malaysia,Wine imports,2016,1000 hl,121
+Asia,Malaysia,Wine consumption,2016,1000 hl,69
+Asia,Malaysia,Consumption of wine per capita (+15),2016,l/capita (+15),0.3
+Asia,Maldives,Wine exports,2016,1000 hl,0
+Asia,Maldives,Wine imports,2016,1000 hl,15
+Asia,Maldives,Wine consumption,2016,1000 hl,14
+Asia,Maldives,Consumption of wine per capita (+15),2016,l/capita (+15),4.2
+Africa,Mali,Wine exports,2016,1000 hl,0
+Africa,Mali,Wine imports,2016,1000 hl,3
+Africa,Mali,Wine consumption,2016,1000 hl,6
+Africa,Mali,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Europe,Malta,Wine production,2016,1000 hl,15
+Europe,Malta,Wine exports,2016,1000 hl,0
+Europe,Malta,Wine imports,2016,1000 hl,66
+Europe,Malta,Wine consumption,2016,1000 hl,72
+Europe,Malta,Consumption of wine per capita (+15),2016,l/capita (+15),19.5
+America,Martinique,Wine exports,2016,1000 hl,0
+America,Martinique,Wine imports,2016,1000 hl,0
+America,Martinique,Wine consumption,2016,1000 hl,0
+Africa,Mauritania,Wine imports,2016,1000 hl,0
+Africa,Mauritania,Wine consumption,2016,1000 hl,0
+Africa,Mauritius,Wine exports,2016,1000 hl,1
+Africa,Mauritius,Wine imports,2016,1000 hl,25
+Africa,Mauritius,Wine consumption,2016,1000 hl,22
+Africa,Mauritius,Consumption of wine per capita (+15),2016,l/capita (+15),2.2
+America,Mexico,Wine production,2016,1000 hl,404
+America,Mexico,Wine exports,2016,1000 hl,12
+America,Mexico,Wine imports,2016,1000 hl,789
+America,Mexico,Wine consumption,2016,1000 hl,1074
+America,Mexico,Consumption of wine per capita (+15),2016,l/capita (+15),1.2
+Europe,Moldova,,,,
+Europe,Moldova,,,,
+Europe,Moldova,,,,
+Europe,Moldova,,,,
+Europe,Moldova,,,,
+Asia,Mongolia,Wine imports,2016,1000 hl,13
+Asia,Mongolia,Wine consumption,2016,1000 hl,14
+Asia,Mongolia,Consumption of wine per capita (+15),2016,l/capita (+15),0.7
+Europe,Montenegro,Wine production,2016,1000 hl,151
+Europe,Montenegro,Wine exports,2016,1000 hl,68
+Europe,Montenegro,Wine imports,2016,1000 hl,23
+Europe,Montenegro,Wine consumption,2016,1000 hl,104
+Europe,Montenegro,Consumption of wine per capita (+15),2016,l/capita (+15),20.4
+America,Montserrat,Wine imports,2016,1000 hl,0
+America,Montserrat,Wine consumption,2016,1000 hl,0
+Africa,Morocco,Wine production,2016,1000 hl,349
+Africa,Morocco,Wine exports,2016,1000 hl,10
+Africa,Morocco,Wine imports,2016,1000 hl,19
+Africa,Morocco,Wine consumption,2016,1000 hl,354
+Africa,Morocco,Consumption of wine per capita (+15),2016,l/capita (+15),1.4
+Africa,Mozambique,Wine exports,2016,1000 hl,0
+Africa,Mozambique,Wine imports,2016,1000 hl,298
+Africa,Mozambique,Wine consumption,2016,1000 hl,189
+Africa,Mozambique,Consumption of wine per capita (+15),2016,l/capita (+15),1.2
+Asia,Myanmar,Wine imports,2016,1000 hl,57
+Asia,Myanmar,Wine consumption,2016,1000 hl,57
+Asia,Myanmar,Consumption of wine per capita (+15),2016,l/capita (+15),0.2
+Africa,Namibia,Wine exports,2016,1000 hl,33
+Africa,Namibia,Wine imports,2016,1000 hl,416
+Africa,Namibia,Wine consumption,2016,1000 hl,472
+Africa,Namibia,Consumption of wine per capita (+15),2016,l/capita (+15),30.3
+Oceania,Nauru,Wine imports,2016,1000 hl,0
+Oceania,Nauru,Wine consumption,2016,1000 hl,0
+Asia,Nepal,Wine exports,2016,1000 hl,0
+Asia,Nepal,Wine imports,2016,1000 hl,8
+Asia,Nepal,Wine consumption,2016,1000 hl,7
+Asia,Nepal,Consumption of wine per capita (+15),2016,l/capita (+15),0
+America,Netherlands Antilles,Wine imports,2016,1000 hl,0
+America,Netherlands Antilles,Wine consumption,2016,1000 hl,33
+Europe,Netherlands,Wine exports,2016,1000 hl,541
+Europe,Netherlands,Wine imports,2016,1000 hl,4478
+Europe,Netherlands,Wine consumption,2016,1000 hl,3416
+Europe,Netherlands,Consumption of wine per capita (+15),2016,l/capita (+15),24.1
+Oceania,New Caledonia,Wine imports,2016,1000 hl,55
+Oceania,New Caledonia,Wine consumption,2016,1000 hl,68
+Oceania,New Caledonia,Consumption of wine per capita (+15),2016,l/capita (+15),32.4
+Oceania,New Zealand,Wine production,2016,1000 hl,3139
+Oceania,New Zealand,Wine exports,2016,1000 hl,2126
+Oceania,New Zealand,Wine imports,2016,1000 hl,372
+Oceania,New Zealand,Wine consumption,2016,1000 hl,934
+Oceania,New Zealand,Consumption of wine per capita (+15),2016,l/capita (+15),25
+America,Nicaragua,Wine exports,2016,1000 hl,0
+America,Nicaragua,Wine imports,2016,1000 hl,15
+America,Nicaragua,Wine consumption,2016,1000 hl,15
+America,Nicaragua,Consumption of wine per capita (+15),2016,l/capita (+15),0.4
+Africa,Niger,Wine exports,2016,1000 hl,0
+Africa,Niger,Wine imports,2016,1000 hl,10
+Africa,Niger,Wine consumption,2016,1000 hl,8
+Africa,Niger,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Africa,Nigeria,Wine exports,2016,1000 hl,0
+Africa,Nigeria,Wine imports,2016,1000 hl,171
+Africa,Nigeria,Wine consumption,2016,1000 hl,233
+Africa,Nigeria,Consumption of wine per capita (+15),2016,l/capita (+15),0.2
+Oceania,Niue,Wine imports,2016,1000 hl,0
+Oceania,Niue,Wine consumption,2016,1000 hl,0
+Europe,Norway,Wine exports,2016,1000 hl,30
+Europe,Norway,Wine imports,2016,1000 hl,871
+Europe,Norway,Wine consumption,2016,1000 hl,764
+Europe,Norway,Consumption of wine per capita (+15),2016,l/capita (+15),17.7
+Asia,Pakistan,Wine exports,2016,1000 hl,0
+Asia,Pakistan,Wine imports,2016,1000 hl,0
+Asia,Pakistan,Wine consumption,2016,1000 hl,0
+America,Panama,Wine production,2016,1000 hl,1
+America,Panama,Wine exports,2016,1000 hl,40
+America,Panama,Wine imports,2016,1000 hl,54
+America,Panama,Wine consumption,2016,1000 hl,37
+America,Panama,Consumption of wine per capita (+15),2016,l/capita (+15),1.3
+Oceania,Papua New Guinea,Wine imports,2016,1000 hl,23
+Oceania,Papua New Guinea,Wine consumption,2016,1000 hl,30
+Oceania,Papua New Guinea,Consumption of wine per capita (+15),2016,l/capita (+15),0.6
+America,Paraguay,Wine production,2016,1000 hl,16
+America,Paraguay,Wine exports,2016,1000 hl,0
+America,Paraguay,Wine imports,2016,1000 hl,230
+America,Paraguay,Wine consumption,2016,1000 hl,399
+America,Paraguay,Consumption of wine per capita (+15),2016,l/capita (+15),8.4
+America,Peru,Wine production,2016,1000 hl,750
+America,Peru,Wine exports,2016,1000 hl,2
+America,Peru,Wine imports,2016,1000 hl,85
+America,Peru,Wine consumption,2016,1000 hl,836
+America,Peru,Consumption of wine per capita (+15),2016,l/capita (+15),3.6
+Asia,Philippines,Wine exports,2016,1000 hl,7
+Asia,Philippines,Wine imports,2016,1000 hl,204
+Asia,Philippines,Wine consumption,2016,1000 hl,198
+Asia,Philippines,Consumption of wine per capita (+15),2016,l/capita (+15),0.3
+Europe,Poland,Wine exports,2016,1000 hl,36
+Europe,Poland,Wine imports,2016,1000 hl,1188
+Europe,Poland,Wine consumption,2016,1000 hl,1107
+Europe,Poland,Consumption of wine per capita (+15),2016,l/capita (+15),3.4
+Europe,Portugal,Wine production,2016,1000 hl,6010
+Europe,Portugal,Wine exports,2016,1000 hl,2778
+Europe,Portugal,Wine imports,2016,1000 hl,1804
+Europe,Portugal,Wine consumption,2016,1000 hl,4686
+Europe,Portugal,Consumption of wine per capita (+15),2016,l/capita (+15),52.5
+Europe,Republic Of North Macedonia,Wine production,2016,1000 hl,785
+Europe,Republic Of North Macedonia,Wine exports,2016,1000 hl,766
+Europe,Republic Of North Macedonia,Wine imports,2016,1000 hl,2
+Europe,Republic Of North Macedonia,Wine consumption,2016,1000 hl,150
+Europe,Republic Of North Macedonia,Consumption of wine per capita (+15),2016,l/capita (+15),8.7
+Africa,Reunion Island,Wine exports,2016,1000 hl,0
+Africa,Reunion Island,Wine imports,2016,1000 hl,0
+Africa,Reunion Island,Wine consumption,2016,1000 hl,0
+Europe,Romania,Wine production,2016,1000 hl,3267
+Europe,Romania,Wine exports,2016,1000 hl,129
+Europe,Romania,Wine imports,2016,1000 hl,502
+Europe,Romania,Wine consumption,2016,1000 hl,3818
+Europe,Romania,Consumption of wine per capita (+15),2016,l/capita (+15),22.8
+Europe,Russian Federation,Wine production,2016,1000 hl,6646
+Europe,Russian Federation,Wine exports,2016,1000 hl,49
+Europe,Russian Federation,Wine imports,2016,1000 hl,4040
+Europe,Russian Federation,Wine consumption,2016,1000 hl,10457
+Europe,Russian Federation,Consumption of wine per capita (+15),2016,l/capita (+15),8.8
+Africa,Rwanda,Wine exports,2016,1000 hl,0
+Africa,Rwanda,Wine imports,2016,1000 hl,10
+Africa,Rwanda,Wine consumption,2016,1000 hl,10
+Africa,Rwanda,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+America,Saint Helena,Wine imports,2016,1000 hl,0
+America,Saint Helena,Wine consumption,2016,1000 hl,0
+America,Saint Kitts And Nevis,Wine exports,2016,1000 hl,0
+America,Saint Kitts And Nevis,Wine imports,2016,1000 hl,2
+America,Saint Kitts And Nevis,Wine consumption,2016,1000 hl,2
+America,Saint Lucia,Wine exports,2016,1000 hl,10
+America,Saint Lucia,Wine imports,2016,1000 hl,21
+America,Saint Lucia,Wine consumption,2016,1000 hl,6
+America,Saint Lucia,Consumption of wine per capita (+15),2016,l/capita (+15),4.3
+America,Saint Pierre And Miquelon,Wine imports,2016,1000 hl,2
+America,Saint Pierre And Miquelon,Wine consumption,2016,1000 hl,2
+America,Saint Vincent And The Grenadines,Wine exports,2016,1000 hl,0
+America,Saint Vincent And The Grenadines,Wine imports,2016,1000 hl,3
+America,Saint Vincent And The Grenadines,Wine consumption,2016,1000 hl,3
+America,Saint Vincent And The Grenadines,Consumption of wine per capita (+15),2016,l/capita (+15),3.8
+Africa,Sao Tome And Príncipe,Wine imports,2016,1000 hl,37
+Africa,Sao Tome And Príncipe,Wine consumption,2016,1000 hl,35
+Africa,Sao Tome And Príncipe,Consumption of wine per capita (+15),2016,l/capita (+15),31.8
+Asia,Saudi Arabia,Wine imports,2016,1000 hl,0
+Asia,Saudi Arabia,Wine consumption,2016,1000 hl,0
+Africa,Senegal,Wine exports,2016,1000 hl,1
+Africa,Senegal,Wine imports,2016,1000 hl,63
+Africa,Senegal,Wine consumption,2016,1000 hl,60
+Africa,Senegal,Consumption of wine per capita (+15),2016,l/capita (+15),0.7
+Asia,Serbia And Montenegro,Wine production,2016,1000 hl,
+Asia,Serbia And Montenegro,Wine exports,2016,1000 hl,
+Asia,Serbia And Montenegro,Wine imports,2016,1000 hl,
+Asia,Serbia And Montenegro,Wine consumption,2016,1000 hl,
+Europe,Serbia,Wine production,2016,1000 hl,648
+Europe,Serbia,Wine exports,2016,1000 hl,100
+Europe,Serbia,Wine imports,2016,1000 hl,208
+Europe,Serbia,Wine consumption,2016,1000 hl,1043
+Europe,Serbia,Consumption of wine per capita (+15),2016,l/capita (+15),14.2
+Africa,Seychelles,Wine exports,2016,1000 hl,0
+Africa,Seychelles,Wine imports,2016,1000 hl,40
+Africa,Seychelles,Wine consumption,2016,1000 hl,29
+Africa,Seychelles,Consumption of wine per capita (+15),2016,l/capita (+15),41.4
+Africa,Sierra Leone,Wine imports,2016,1000 hl,2
+Africa,Sierra Leone,Wine consumption,2016,1000 hl,2
+Africa,Sierra Leone,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Asia,Singapore,Wine exports,2016,1000 hl,174
+Asia,Singapore,Wine imports,2016,1000 hl,300
+Asia,Singapore,Wine consumption,2016,1000 hl,127
+Asia,Singapore,Consumption of wine per capita (+15),2016,l/capita (+15),2.7
+Europe,Slovakia,Wine production,2016,1000 hl,309
+Europe,Slovakia,Wine exports,2016,1000 hl,221
+Europe,Slovakia,Wine imports,2016,1000 hl,623
+Europe,Slovakia,Wine consumption,2016,1000 hl,638
+Europe,Slovakia,Consumption of wine per capita (+15),2016,l/capita (+15),13.8
+Europe,Slovenia,Wine production,2016,1000 hl,497
+Europe,Slovenia,Wine exports,2016,1000 hl,40
+Europe,Slovenia,Wine imports,2016,1000 hl,134
+Europe,Slovenia,Wine consumption,2016,1000 hl,811
+Europe,Slovenia,Consumption of wine per capita (+15),2016,l/capita (+15),45.8
+Oceania,Solomon Islands,Wine imports,2016,1000 hl,2
+Oceania,Solomon Islands,Wine consumption,2016,1000 hl,2
+Oceania,Solomon Islands,Consumption of wine per capita (+15),2016,l/capita (+15),0.6
+Africa,Somalia,Wine imports,2016,1000 hl,0
+Africa,Somalia,Wine consumption,2016,1000 hl,0
+Africa,South Africa,Wine production,2016,1000 hl,10531
+Africa,South Africa,Wine exports,2016,1000 hl,4283
+Africa,South Africa,Wine imports,2016,1000 hl,169
+Africa,South Africa,Wine consumption,2016,1000 hl,4369
+Africa,South Africa,Consumption of wine per capita (+15),2016,l/capita (+15),11
+Europe,Spain,Wine production,2016,1000 hl,39670
+Europe,Spain,Wine exports,2016,1000 hl,22626
+Europe,Spain,Wine imports,2016,1000 hl,614
+Europe,Spain,Wine consumption,2016,1000 hl,9850
+Europe,Spain,Consumption of wine per capita (+15),2016,l/capita (+15),24.9
+Asia,Sri Lanka,Wine exports,2016,1000 hl,1
+Asia,Sri Lanka,Wine imports,2016,1000 hl,13
+Asia,Sri Lanka,Wine consumption,2016,1000 hl,12
+Asia,Sri Lanka,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Asia,State Of Palestine,Wine exports,2016,1000 hl,1
+Asia,State Of Palestine,Wine imports,2016,1000 hl,0
+Asia,State Of Palestine,Wine consumption,2016,1000 hl,1
+Asia,State Of Palestine,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Africa,Sudan,Wine imports,2016,1000 hl,1
+Africa,Sudan,Wine consumption,2016,1000 hl,1
+Africa,Sudan,Consumption of wine per capita (+15),2016,l/capita (+15),0
+America,Suriname,Wine imports,2016,1000 hl,3
+America,Suriname,Wine consumption,2016,1000 hl,4
+America,Suriname,Consumption of wine per capita (+15),2016,l/capita (+15),1
+Africa,Swaziland,Wine exports,2016,1000 hl,2
+Africa,Swaziland,Wine imports,2016,1000 hl,0
+Africa,Swaziland,Wine consumption,2016,1000 hl,4
+Africa,Swaziland,Consumption of wine per capita (+15),2016,l/capita (+15),0.5
+Europe,Sweden,Wine exports,2016,1000 hl,75
+Europe,Sweden,Wine imports,2016,1000 hl,2184
+Europe,Sweden,Wine consumption,2016,1000 hl,2370
+Europe,Sweden,Consumption of wine per capita (+15),2016,l/capita (+15),29.2
+Europe,Switzerland,Wine production,2016,1000 hl,1077
+Europe,Switzerland,Wine exports,2016,1000 hl,11
+Europe,Switzerland,Wine imports,2016,1000 hl,1850
+Europe,Switzerland,Wine consumption,2016,1000 hl,2699
+Europe,Switzerland,Consumption of wine per capita (+15),2016,l/capita (+15),37.7
+Asia,Syrian Arab Republic,Wine production,2016,1000 hl,1
+Asia,Syrian Arab Republic,Wine exports,2016,1000 hl,0
+Asia,Syrian Arab Republic,Wine imports,2016,1000 hl,1
+Asia,Syrian Arab Republic,Wine consumption,2016,1000 hl,2
+Asia,Syrian Arab Republic,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Asia,Taiwan,,,,
+Asia,Taiwan,,,,
+Asia,Taiwan,,,,
+Asia,Taiwan,,,,
+Asia,Tajikistan,Wine production,2016,1000 hl,1
+Asia,Tajikistan,Wine exports,2016,1000 hl,0
+Asia,Tajikistan,Wine imports,2016,1000 hl,2
+Asia,Tajikistan,Wine consumption,2016,1000 hl,5
+Asia,Tajikistan,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Africa,Tanzania,,,,
+Africa,Tanzania,,,,
+Africa,Tanzania,,,,
+Africa,Tanzania,,,,
+Asia,Thailand,Wine exports,2016,1000 hl,117
+Asia,Thailand,Wine imports,2016,1000 hl,126
+Asia,Thailand,Wine consumption,2016,1000 hl,24
+Asia,Thailand,Consumption of wine per capita (+15),2016,l/capita (+15),0
+Oceania,Timor-leste,Wine imports,2016,1000 hl,1
+Oceania,Timor-leste,Wine consumption,2016,1000 hl,1
+Oceania,Timor-leste,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Africa,Togo,Wine exports,2016,1000 hl,15
+Africa,Togo,Wine imports,2016,1000 hl,50
+Africa,Togo,Wine consumption,2016,1000 hl,48
+Africa,Togo,Consumption of wine per capita (+15),2016,l/capita (+15),1.1
+Oceania,Tonga,Wine imports,2016,1000 hl,1
+Oceania,Tonga,Wine consumption,2016,1000 hl,1
+Oceania,Tonga,Consumption of wine per capita (+15),2016,l/capita (+15),1.4
+America,Trinidad And Tobago,Wine exports,2016,1000 hl,0
+America,Trinidad And Tobago,Wine imports,2016,1000 hl,14
+America,Trinidad And Tobago,Wine consumption,2016,1000 hl,22
+America,Trinidad And Tobago,Consumption of wine per capita (+15),2016,l/capita (+15),2
+Africa,Tunisia,Wine production,2016,1000 hl,296
+Africa,Tunisia,Wine exports,2016,1000 hl,6
+Africa,Tunisia,Wine imports,2016,1000 hl,2
+Africa,Tunisia,Wine consumption,2016,1000 hl,262
+Africa,Tunisia,Consumption of wine per capita (+15),2016,l/capita (+15),3
+Asia,Turkey,Wine production,2016,1000 hl,496
+Asia,Turkey,Wine exports,2016,1000 hl,29
+Asia,Turkey,Wine imports,2016,1000 hl,20
+Asia,Turkey,Wine consumption,2016,1000 hl,513
+Asia,Turkey,Consumption of wine per capita (+15),2016,l/capita (+15),0.9
+Asia,Turkmenistan,Wine production,2016,1000 hl,455
+Asia,Turkmenistan,Wine exports,2016,1000 hl,0
+Asia,Turkmenistan,Wine imports,2016,1000 hl,2
+Asia,Turkmenistan,Wine consumption,2016,1000 hl,455
+Asia,Turkmenistan,Consumption of wine per capita (+15),2016,l/capita (+15),11.6
+Oceania,Tuvalu,Wine imports,2016,1000 hl,0
+Oceania,Tuvalu,Wine consumption,2016,1000 hl,1
+Africa,Uganda,Wine exports,2016,1000 hl,2
+Africa,Uganda,Wine imports,2016,1000 hl,19
+Africa,Uganda,Wine consumption,2016,1000 hl,21
+Africa,Uganda,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Europe,Ukraine,Wine production,2016,1000 hl,1123
+Europe,Ukraine,Wine exports,2016,1000 hl,317
+Europe,Ukraine,Wine imports,2016,1000 hl,431
+Europe,Ukraine,Wine consumption,2016,1000 hl,1242
+Europe,Ukraine,Consumption of wine per capita (+15),2016,l/capita (+15),3.3
+Europe,United Kingdom,Wine production,2016,1000 hl,38
+Europe,United Kingdom,Wine exports,2016,1000 hl,784
+Europe,United Kingdom,Wine imports,2016,1000 hl,13555
+Europe,United Kingdom,Wine consumption,2016,1000 hl,12919
+Europe,United Kingdom,Consumption of wine per capita (+15),2016,l/capita (+15),23.8
+America,United States,Wine production,2016,1000 hl,23715
+America,United States,Wine exports,2016,1000 hl,3790
+America,United States,Wine imports,2016,1000 hl,11143
+America,United States,Wine consumption,2016,1000 hl,31684
+America,United States,Consumption of wine per capita (+15),2016,l/capita (+15),12.2
+America,Uruguay,Wine production,2016,1000 hl,755
+America,Uruguay,Wine exports,2016,1000 hl,34
+America,Uruguay,Wine imports,2016,1000 hl,33
+America,Uruguay,Wine consumption,2016,1000 hl,609
+America,Uruguay,Consumption of wine per capita (+15),2016,l/capita (+15),22.5
+Asia,Uzbekistan,Wine production,2016,1000 hl,398
+Asia,Uzbekistan,Wine exports,2016,1000 hl,106
+Asia,Uzbekistan,Wine imports,2016,1000 hl,1
+Asia,Uzbekistan,Wine consumption,2016,1000 hl,324
+Asia,Uzbekistan,Consumption of wine per capita (+15),2016,l/capita (+15),1.4
+Oceania,Vanuatu,Wine imports,2016,1000 hl,6
+Oceania,Vanuatu,Wine consumption,2016,1000 hl,5
+Oceania,Vanuatu,Consumption of wine per capita (+15),2016,l/capita (+15),2.9
+America,Venezuela,Wine exports,2016,1000 hl,0
+America,Venezuela,Wine imports,2016,1000 hl,24
+America,Venezuela,Wine consumption,2016,1000 hl,24
+America,Venezuela,Consumption of wine per capita (+15),2016,l/capita (+15),0.1
+Asia,Vietnam,Wine imports,2016,1000 hl,79
+Asia,Vietnam,Wine consumption,2016,1000 hl,127
+Asia,Vietnam,Consumption of wine per capita (+15),2016,l/capita (+15),0.2
+Asia,Yemen,Wine exports,2016,1000 hl,0
+Asia,Yemen,Wine imports,2016,1000 hl,0
+Asia,Yemen,Wine consumption,2016,1000 hl,0
+Africa,Zambia,Wine exports,2016,1000 hl,0
+Africa,Zambia,Wine imports,2016,1000 hl,47
+Africa,Zambia,Wine consumption,2016,1000 hl,36
+Africa,Zambia,Consumption of wine per capita (+15),2016,l/capita (+15),0.4
+Africa,Zimbabwe,Wine production,2016,1000 hl,25
+Africa,Zimbabwe,Wine exports,2016,1000 hl,0
+Africa,Zimbabwe,Wine imports,2016,1000 hl,17
+Africa,Zimbabwe,Wine consumption,2016,1000 hl,41
+Africa,Zimbabwe,Consumption of wine per capita (+15),2016,l/capita (+15),0.4
